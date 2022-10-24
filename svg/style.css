@@ -1,0 +1,17 @@
+*    {
+margin:0;
+padding:0;
+}
+body{
+background-color:#638542;
+}
+svg path{
+fill:#db8aa1;
+stroke:#eee;
+stroke-width:.25;
+}
+svg path:hover{
+fill:#bf84ad;
+transition :0.4s;
+cursor:pointer;
+}
